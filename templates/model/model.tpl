@@ -1,5 +1,5 @@
 <?php
 
-class #CLASS# extends Eloquent {
+class #CLASS# extends Eloquent#BRACKETWS#{
 
 #TIMESTAMPS##RELATIONS#}

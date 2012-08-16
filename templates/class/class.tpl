@@ -1,10 +1,10 @@
 <?php
 
-class #CLASS# {
+class #CLASS##BRACKETWS#{
 
-	public function __construct()
-	{
-		// init code here..
-	}
+    public function __construct()
+    {
+        // init code here..
+    }
 
 #METHODS#}
